@@ -1,0 +1,12 @@
+{
+  "name": "rammerhead-codespace",
+  "version": "1.0.0",
+  "description": "Run Rammerhead proxy server in GitHub Codespaces",
+  "main": "start-rammerhead.js",
+  "scripts": {
+    "start": "node start-rammerhead.js"
+  },
+  "dependencies": {
+    "rammerhead": "^1.0.5"
+  }
+}
